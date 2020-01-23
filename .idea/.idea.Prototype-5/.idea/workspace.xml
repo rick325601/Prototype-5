@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90f167be-a926-4ab4-83e9-3deb48eafbe5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Assets/Scenes/Prototype 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype-4/Assets/Scenes/Prototype 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype-4/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype-4/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Library/StateCache/Hierarchy/929253-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype-4/Library/StateCache/Hierarchy/929253-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype-4/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-0fa52c82085f0bc4ca24a5dfeb903cf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-15d27c222b8916f4abb395c9b020b911" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-24cd5875a0b3f634aaf99bc1f24e7194" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-27db526fb32a9a843a08fbd6ae587350" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-3a96a40d4caf7fb4bb9129ec942086d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-408f8438d2422724da3ca2f97e0edb7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-51963d3c0e852f04bb19cd576e4892d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-6a1d6ec1452d9884aadfba215603f615" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-6c8d862b5d8e0754ea5481b49724ae36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-7dc6c99451299c445aa4782c8dd4d892" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-9179cebc272b11c4780999f58c434c04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-93af9761e2c7d1c4fa9ae57f151a79b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-dd740f7777096344da548246d1fa348e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/UnityTempFile-e4c6a709093c48b429c3eec88575fe36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype-4/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/.idea/.idea.desert_map/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/.idea/.idea.desert_map/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/Library/StateCache/SceneView/3bbc9a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/Library/StateCache/SceneView/3bbc9a-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desert_map/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../desert_map/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/DifficultyButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/target.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scripts/target.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/DifficultyButton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WkGJfRFWj6KuMXo0tjf2DPQwE0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f167be-a926-4ab4-83e9-3deb48eafbe5" name="Default Changelist" comment="" />
+      <created>1579686109761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579686109761</updated>
+      <workItem from="1579686114539" duration="8439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
